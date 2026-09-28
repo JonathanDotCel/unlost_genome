@@ -1,0 +1,9 @@
+https://github.com/JonathanDotCel/unlost_genome
+
+Original research and documentation created for this repository are licensed under CC BY 4.0.
+
+https://creativecommons.org/licenses/by/4.0/
+
+Modified Creatures 3 / Docking Station genome files are derived from the original game data and are excluded from that licence. Rights in the original Creatures material remain with their respective rights holders.
+
+This project is provided as-is, without warranty of any kind. Use it at your own risk.
